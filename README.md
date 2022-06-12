@@ -1,7 +1,8 @@
 # Bug-Bounty
 
 ---
-
+- [Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist): 
+  > Tips and Tutorials for Bug Bounty and also Penetration Tests.
 - [HowToHunt](https://github.com/KathanP19/HowToHunt)
   > Tutorials and Things to Do while Hunting Vulnerability.
 - [Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
