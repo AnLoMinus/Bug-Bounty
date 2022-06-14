@@ -22,26 +22,50 @@
 
 ---
 - ## [Bug-Bounty-Tools](https://github.com/daffainfo/Bug-Bounty-Tools): Random Tools for Bug Bounty
+
 - ## [Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist): 
   > Tips and Tutorials for Bug Bounty and also Penetration Tests.
+
 - ## [HowToHunt](https://github.com/KathanP19/HowToHunt)
   > Tutorials and Things to Do while Hunting Vulnerability.
+
 - ## [Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
   > A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference 
+
 - ## [AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty)
   > All about bug bounty (bypasses, payloads, and etc)
+
 - ## [HolyTips](https://github.com/HolyBugx/HolyTips)
   > A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
+
 - ## [BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon)
   > BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.
     - ![image](https://user-images.githubusercontent.com/51442719/173207844-0c15a4ae-f7af-4733-a82d-6dd49873d087.png)
+
 - ## [Hack-Pet](https://github.com/hahwul/hack-pet): 
   > hack-pet is collection of command snippets that are useful to hackers/bug bounty hunters. <br>
   > It is similar to the recon_profile, but it uses the pet. pet can manage the command set more progressively. <br>
   > ![image](https://user-images.githubusercontent.com/51442719/173320602-a127a785-8833-4af6-bbe1-dd05e6008fee.png) <br>
   > ![image](https://user-images.githubusercontent.com/51442719/173320551-b871c846-be09-4d24-9005-e5a3a8e72d1b.png)
 
+- ## [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters):
+  > A list of resources for those interested in getting started in bug bounties
+  > ## Table of Contents
+  > - [Basics](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/basics.md)
+  > - [Setup](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/setup.md)
+  > - [Tools](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/tools.md)
+  > - [Labs & Testing Environments](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/labs.md)
+  > - [Talks](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/talks.md)
+  > - [Vulnerability Types](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/vulns.md)
+  > - [Mobile Hacking](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/mobile.md)
+  > - [Smart Contracts](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/smartcon.md)
+  > - [Coding & Scripting](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/coding.md)
+  > - [Hardware & IoT](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/hardware.md)
+  > - [Blog posts & Talks](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/blogposts.md)
+  > - [Media Resources](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/media.md)
+  > - [Certifications](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/certs.md)
+  > - [Mindset & Mental Health](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/health.md)
 
- 
+
 ---
 
