@@ -48,6 +48,9 @@
   > ![image](https://user-images.githubusercontent.com/51442719/173320602-a127a785-8833-4af6-bbe1-dd05e6008fee.png) <br>
   > ![image](https://user-images.githubusercontent.com/51442719/173320551-b871c846-be09-4d24-9005-e5a3a8e72d1b.png)
 
+- ## [Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist) <br>
+  > ### Tips and Tutorials for Bug Bounty and also Penetration Tests.
+
 - ## [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters):
   > A list of resources for those interested in getting started in bug bounties
   > ## Table of Contents
