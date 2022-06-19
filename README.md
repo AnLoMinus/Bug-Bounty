@@ -21,6 +21,10 @@
 # Bug-Bounty
 
 ---
+
+- ## [The Bug Hunter's Methodology (TBHM)](https://github.com/jhaddix/tbhm)
+  > related to web application security assessments and more specifically towards bug hunting in bug bounties. 
+
 - ## [Bug-Bounty-Tools](https://github.com/daffainfo/Bug-Bounty-Tools): Random Tools for Bug Bounty
 
 - ## [Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist): 
