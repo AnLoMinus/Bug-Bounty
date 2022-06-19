@@ -22,6 +22,10 @@
 
 ---
 
+- ## [The Threat Hunter Playbook]() ~ The Threat Hunter Playbook
+- ![image](https://user-images.githubusercontent.com/51442719/174491587-cd272b9e-aef8-4e43-9020-3dab10d54003.png)
+  > The Threat Hunter Playbook is a community-driven, open source project to share detection logic, adversary tradecraft and resources to make detection development more efficient. All the detection documents in this project follow the structure of MITRE ATT&CK categorizing post-compromise adversary behavior in tactical groups and are available in the form of interactive notebooks. The use of notebooks not only allow us to share text, queries and expected output, but also code to help others run detection logic against pre-recorded security datasets locally or remotely through BinderHub cloud computing environments.
+
 - ## [The Bug Hunter's Methodology (TBHM)](https://github.com/jhaddix/tbhm)
   > related to web application security assessments and more specifically towards bug hunting in bug bounties. 
 
@@ -72,6 +76,7 @@
   > - [Media Resources](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/media.md)
   > - [Certifications](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/certs.md)
   > - [Mindset & Mental Health](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/health.md)
+  > 
 
 
 ---
