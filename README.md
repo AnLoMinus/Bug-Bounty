@@ -26,6 +26,8 @@
 
 ---
 
+- ## [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists)
+  > A repository that includes all the important wordlists used while bug hunting. 
 - ## [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
   > A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.
 - ## [CTF-tool](https://github.com/SandySekharan/CTF-tool)
