@@ -26,6 +26,8 @@
 
 ---
 
+- ## [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
+  > A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.
 - ## [CTF-tool](https://github.com/SandySekharan/CTF-tool)
   > A curated list of Capture The Flag (CTF) frameworks, libraries, resources and softwares.
   > 
