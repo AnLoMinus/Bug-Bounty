@@ -26,6 +26,8 @@
 
 ---
 
+- ## [Bug Bounty Cheat Sheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
+  > A list of interesting payloads, tips and tricks for bug bounty hunters. 
 - ## [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists)
   > A repository that includes all the important wordlists used while bug hunting. 
 - ## [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
@@ -104,3 +106,10 @@
 
 # Books
 - ## [Hacking-Books](https://github.com/zapstiko/Hacking-PDF) Here Are Some Popular Hacking PDF
+
+---
+
+# Bug-Bounty : Cheatsheets
+- ## [Bug Bounty Cheat Sheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
+  > A list of interesting payloads, tips and tricks for bug bounty hunters. 
+
