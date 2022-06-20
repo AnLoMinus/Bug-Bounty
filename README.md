@@ -78,7 +78,7 @@
 - ## [KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips) <br>
   > ### Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters..
 
- 
+---
 
 - ## [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters):
   > ###A list of resources for those interested in getting started in bug bounties
@@ -102,3 +102,5 @@
 
 ---
 
+# Books
+- ## [Hacking-Books](https://github.com/zapstiko/Hacking-PDF) Here Are Some Popular Hacking PDF
