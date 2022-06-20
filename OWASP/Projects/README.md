@@ -1,4 +1,4 @@
-![Projects](/assets/images/web/juice-shop.png)
+![image](https://user-images.githubusercontent.com/51442719/174681694-04ad9911-e9f9-4685-927d-5498ae59cf07.png)
 
 Projects for Good
 -----------------
