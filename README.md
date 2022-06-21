@@ -23,25 +23,22 @@
 ---
 
 # Bug Bounty
+> - [Awesomes](#Awesomes)
 > - [Books](#Books)
-> - [Wordlists](#Wordlists)
 > - [Cheatsheets](#Cheatsheets)
+> - [Tools](#Tools)
+> - [Wordlists](#Wordlists)
 
 ---
 
-# Wordlists
-- ## [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists)
-  > ### A repository that includes all the important wordlists used while bug hunting.
-- ## [a-full-list-of-wordlists](https://github.com/SilverPoision/a-full-list-of-wordlists/tree/master/Wordlists/burp_pack) 
-  > ### this contain the burp pack  
-
----
-
-# Cheatsheets
-- ## [Bug Bounty Cheat Sheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
-  > ### A list of interesting payloads, tips and tricks for bug bounty hunters. 
-- ## [Bug Bounty Cheat Sheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
-  > A list of interesting payloads, tips and tricks for bug bounty hunters. 
+# Awesomes
+- ## [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
+  > A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.
+- ## [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
+  > ### A curated list of `Capture The Flag` (`CTF`) frameworks, libraries, resources, softwares and tutorials. This list aims to help starters as well as seasoned CTF players to find everything related to CTFs at one place.
+- ## [Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder)
+  > ### Awesome Bug bounty builder Project - ALL common Tools for find your Vulnerabilities.
+  > ![image](https://user-images.githubusercontent.com/51442719/174515020-8d952fcc-7385-4a41-9e5d-2d388baf953d.png) 
 
 ---
 
@@ -53,21 +50,30 @@
 
 ---
 
-- ## [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
-  > A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.
-- ## [CTF-tool](https://github.com/SandySekharan/CTF-tool)
-  > A curated list of Capture The Flag (CTF) frameworks, libraries, resources and softwares.
-  > 
-- ## [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
-  > ### A curated list of `Capture The Flag` (`CTF`) frameworks, libraries, resources, softwares and tutorials. This list aims to help starters as well as seasoned CTF players to find everything related to CTFs at one place.
-- ## [Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder)
-  > ### Awesome Bug bounty builder Project - ALL common Tools for find your Vulnerabilities.
-  > ![image](https://user-images.githubusercontent.com/51442719/174515020-8d952fcc-7385-4a41-9e5d-2d388baf953d.png) 
+# Cheatsheets
+- ## [Bug Bounty Cheat Sheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
+  > ### A list of interesting payloads, tips and tricks for bug bounty hunters. 
+- ## [Bug Bounty Cheat Sheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
+  > A list of interesting payloads, tips and tricks for bug bounty hunters. 
+
+---
+
+# Tools
+- ## [Bug-Bounty-Tools](https://github.com/daffainfo/Bug-Bounty-Tools): Random Tools for Bug Bounty
+
+---
+
+# Wordlists
+- ## [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists)
+  > ### A repository that includes all the important wordlists used while bug hunting.
+- ## [a-full-list-of-wordlists](https://github.com/SilverPoision/a-full-list-of-wordlists/tree/master/Wordlists/burp_pack) 
+  > ### this contain the burp pack  
+
+---
 
 - ## [The Bug Hunter's Methodology (TBHM)](https://github.com/jhaddix/tbhm)
   > related to web application security assessments and more specifically towards bug hunting in bug bounties. 
 
-- ## [Bug-Bounty-Tools](https://github.com/daffainfo/Bug-Bounty-Tools): Random Tools for Bug Bounty
 
 - ## [Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist): 
   > Tips and Tutorials for Bug Bounty and also Penetration Tests.
@@ -99,6 +105,9 @@
 
 - ## [KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips) <br>
   > ### Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters..
+
+- ## [CTF-tool](https://github.com/SandySekharan/CTF-tool)
+  > A curated list of Capture The Flag (CTF) frameworks, libraries, resources and softwares.
 
 ---
 
