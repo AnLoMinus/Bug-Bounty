@@ -99,7 +99,8 @@
   > ### Bug Bounty Vps Setup Tools Installer
   > #### With these tools you can install most of the bug bounty tools with just one command and The tool has been modified and spelled many tools ## special thanks @supr4s Because most of these tools modify his tools
 
-
+- ## [kali-repos](https://github.com/samirettali/kali)
+  > ### Kali Linux containers for bug bounty and CTFs
 
 
 - ### Subdomains recon  
