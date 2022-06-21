@@ -40,6 +40,16 @@
 # Cheatsheets
 - ## [Bug Bounty Cheat Sheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
   > ### A list of interesting payloads, tips and tricks for bug bounty hunters. 
+- ## [Bug Bounty Cheat Sheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
+  > A list of interesting payloads, tips and tricks for bug bounty hunters. 
+
+---
+
+# Books
+- ## [Hacking-Books](https://github.com/zapstiko/Hacking-PDF) Here Are Some Popular Hacking PDF
+- ## [The Threat Hunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook) ~ The Threat Hunter Playbook
+- ![image](https://user-images.githubusercontent.com/51442719/174491587-cd272b9e-aef8-4e43-9020-3dab10d54003.png)
+  > The Threat Hunter Playbook is a community-driven, open source project to share detection logic, adversary tradecraft and resources to make detection development more efficient. All the detection documents in this project follow the structure of MITRE ATT&CK categorizing post-compromise adversary behavior in tactical groups and are available in the form of interactive notebooks. The use of notebooks not only allow us to share text, queries and expected output, but also code to help others run detection logic against pre-recorded security datasets locally or remotely through BinderHub cloud computing environments.
 
 ---
 
@@ -109,20 +119,8 @@
   > - [Media Resources](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/media.md)
   > - [Certifications](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/certs.md)
   > - [Mindset & Mental Health](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/health.md)
-  > 
 
 
 ---
 
-# Books
-- ## [Hacking-Books](https://github.com/zapstiko/Hacking-PDF) Here Are Some Popular Hacking PDF
-- ## [The Threat Hunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook) ~ The Threat Hunter Playbook
-- ![image](https://user-images.githubusercontent.com/51442719/174491587-cd272b9e-aef8-4e43-9020-3dab10d54003.png)
-  > The Threat Hunter Playbook is a community-driven, open source project to share detection logic, adversary tradecraft and resources to make detection development more efficient. All the detection documents in this project follow the structure of MITRE ATT&CK categorizing post-compromise adversary behavior in tactical groups and are available in the form of interactive notebooks. The use of notebooks not only allow us to share text, queries and expected output, but also code to help others run detection logic against pre-recorded security datasets locally or remotely through BinderHub cloud computing environments.
-
----
-
-# Bug-Bounty : Cheatsheets
-- ## [Bug Bounty Cheat Sheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
-  > A list of interesting payloads, tips and tricks for bug bounty hunters. 
 
