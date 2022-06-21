@@ -91,6 +91,17 @@
   > ### This Is A Tool For Bug Hunters in this tool i have included the tools which bug hunters use
   > ![](https://github.com/krishpranav/BugHuntingToolKit/raw/master/Bug.gif)
 
+- ## [Parrots Recon](https://github.com/parrotassassin15/parrot-recon)
+  > ### Recon Automation for BugBounties
+
+- ## [OK-VPS](https://github.com/mrco24/OK-VPS)
+  > ![image](https://user-images.githubusercontent.com/51442719/174768684-043fcd77-991d-42d8-bf2b-9aca2eec5825.png)
+  > ### Bug Bounty Vps Setup Tools Installer
+  > #### With these tools you can install most of the bug bounty tools with just one command and The tool has been modified and spelled many tools ## special thanks @supr4s Because most of these tools modify his tools
+
+
+
+
 - ### Subdomains recon  
   - [amass](https://github.com/OWASP/Amass)
   - [subfinder](https://github.com/projectdiscovery/subfinder)
