@@ -87,6 +87,9 @@
   > #### Some categories and tools will be added as we go.  
   > #### If you have questions or suggestions, don't hesitate to contact me on twitter (https://twitter.com/_sehno_)  
 
+- ## [BugHuntingToolKit](https://github.com/krishpranav/BugHuntingToolKit)
+  > ### This Is A Tool For Bug Hunters in this tool i have included the tools which bug hunters use
+  > ![](https://github.com/krishpranav/BugHuntingToolKit/raw/master/Bug.gif)
 
 - ### Subdomains recon  
   - [amass](https://github.com/OWASP/Amass)
