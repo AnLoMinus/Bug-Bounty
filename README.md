@@ -67,6 +67,12 @@
 ---
 
 # Tools
+- ## [BugDog](https://github.com/M4xSec/BugDog)
+  > ###A Powerfull BUG HUNTING TOOL. Supports SQL, XSS, PHP code execution, SSRF,.... I had Appended My Own Payloads which I had founded during my BUG Hunting Rest You can add Your CUSTOM payloads too ;) 
+  > ![image](https://user-images.githubusercontent.com/51442719/174846835-7ca2ee10-92ef-408e-9e16-a1ac04c5c107.png)
+  > - ### NOTE: BugDog is made with python and requires python2 to run perfectly.
+
+ 
 - ## [Bug-Bounty-Tools](https://github.com/daffainfo/Bug-Bounty-Tools): Random Tools for Bug Bounty
 
 - ## [BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon)
