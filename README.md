@@ -22,7 +22,7 @@
   
 ---
 
-# Bug-Bounty
+# Bug Bounty
 
 ---
 
