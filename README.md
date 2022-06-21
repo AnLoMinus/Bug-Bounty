@@ -23,15 +23,20 @@
 ---
 
 # Bug Bounty
+- [Wordlists](#Wordlists)
+
+---
+
+# Wordlists
+- ## [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists)
+  > ### A repository that includes all the important wordlists used while bug hunting.
+- ## [a-full-list-of-wordlists](https://github.com/SilverPoision/a-full-list-of-wordlists/tree/master/Wordlists/burp_pack) 
+  > ### this contain the burp pack  
 
 ---
 
 - ## [Bug Bounty Cheat Sheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
   > ### A list of interesting payloads, tips and tricks for bug bounty hunters. 
-- ## [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists)
-  > ### A repository that includes all the important wordlists used while bug hunting.
-- ## [a-full-list-of-wordlists](https://github.com/SilverPoision/a-full-list-of-wordlists/tree/master/Wordlists/burp_pack) 
-  > ### this contain the burp pack  
 - ## [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
   > A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.
 - ## [CTF-tool](https://github.com/SandySekharan/CTF-tool)
