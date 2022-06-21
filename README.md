@@ -87,8 +87,15 @@
 # Wordlists
 - ## [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists)
   > ### A repository that includes all the important wordlists used while bug hunting.
+
 - ## [a-full-list-of-wordlists](https://github.com/SilverPoision/a-full-list-of-wordlists/tree/master/Wordlists/burp_pack) 
   > ### this contain the burp pack  
+
+- ## [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
+  > FuzzDB was created to increase the likelihood of finding application security vulnerabilities through dynamic application security testing. It's the first and most comprehensive open dictionary of fault injection patterns, predictable resource locations, and regex for matching server responses.
+
+- ## [wordlist-tools](https://github.com/shifty0g/wordlist-tools) 
+  > A set of tools for making life easier with wordlists 
 
 ---
 
