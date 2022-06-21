@@ -23,9 +23,9 @@
 ---
 
 # Bug Bounty
-- [Books](#Books)
-- [Wordlists](#Wordlists)
-- [Cheatsheets](#Cheatsheets)
+> - [Books](#Books)
+> - [Wordlists](#Wordlists)
+> - [Cheatsheets](#Cheatsheets)
 
 ---
 
