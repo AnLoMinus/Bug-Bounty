@@ -23,7 +23,9 @@
 ---
 
 # Bug Bounty
+- [Books](#Books)
 - [Wordlists](#Wordlists)
+- [Cheatsheets](#Cheatsheets)
 
 ---
 
@@ -35,8 +37,12 @@
 
 ---
 
+# Cheatsheets
 - ## [Bug Bounty Cheat Sheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
   > ### A list of interesting payloads, tips and tricks for bug bounty hunters. 
+
+---
+
 - ## [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
   > A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.
 - ## [CTF-tool](https://github.com/SandySekharan/CTF-tool)
@@ -47,9 +53,6 @@
 - ## [Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder)
   > ### Awesome Bug bounty builder Project - ALL common Tools for find your Vulnerabilities.
   > ![image](https://user-images.githubusercontent.com/51442719/174515020-8d952fcc-7385-4a41-9e5d-2d388baf953d.png) 
-- ## [The Threat Hunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook) ~ The Threat Hunter Playbook
-- ![image](https://user-images.githubusercontent.com/51442719/174491587-cd272b9e-aef8-4e43-9020-3dab10d54003.png)
-  > The Threat Hunter Playbook is a community-driven, open source project to share detection logic, adversary tradecraft and resources to make detection development more efficient. All the detection documents in this project follow the structure of MITRE ATT&CK categorizing post-compromise adversary behavior in tactical groups and are available in the form of interactive notebooks. The use of notebooks not only allow us to share text, queries and expected output, but also code to help others run detection logic against pre-recorded security datasets locally or remotely through BinderHub cloud computing environments.
 
 - ## [The Bug Hunter's Methodology (TBHM)](https://github.com/jhaddix/tbhm)
   > related to web application security assessments and more specifically towards bug hunting in bug bounties. 
@@ -113,6 +116,9 @@
 
 # Books
 - ## [Hacking-Books](https://github.com/zapstiko/Hacking-PDF) Here Are Some Popular Hacking PDF
+- ## [The Threat Hunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook) ~ The Threat Hunter Playbook
+- ![image](https://user-images.githubusercontent.com/51442719/174491587-cd272b9e-aef8-4e43-9020-3dab10d54003.png)
+  > The Threat Hunter Playbook is a community-driven, open source project to share detection logic, adversary tradecraft and resources to make detection development more efficient. All the detection documents in this project follow the structure of MITRE ATT&CK categorizing post-compromise adversary behavior in tactical groups and are available in the form of interactive notebooks. The use of notebooks not only allow us to share text, queries and expected output, but also code to help others run detection logic against pre-recorded security datasets locally or remotely through BinderHub cloud computing environments.
 
 ---
 
