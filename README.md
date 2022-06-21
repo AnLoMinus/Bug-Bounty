@@ -102,6 +102,13 @@
 - ## [kali-repos](https://github.com/samirettali/kali)
   > ### Kali Linux containers for bug bounty and CTFs
 
+- ## [Bot-Bounty](https://github.com/Drayko/Bot-Bounty)
+  > ### Python Script for Telegram Bot is specially built for pentest & bug bounty. It's like a telegram shell.
+  > #### You will be notified when your task(command line) is finished with results. This bot make long time tasks by you, taking off the need of your attention if it's finished.
+  > ![image](https://user-images.githubusercontent.com/51442719/174773861-5271f931-18b8-46bc-b088-0ee7e1277a03.png) <br>
+  > ![image](https://user-images.githubusercontent.com/51442719/174773924-4e2f431b-ac2a-4dbf-9e93-114947b2892a.png) <br>
+
+
 
 - ### Subdomains recon  
   - [amass](https://github.com/OWASP/Amass)
