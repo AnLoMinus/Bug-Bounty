@@ -18,6 +18,9 @@
 ⫷ [**`Goals`**](https://github.com/Anlominus/Goals) | [**`Studies`**](https://github.com/Anlominus/Studies) | [**`HacKing`**](https://github.com/Anlominus/HacKing) | [**`AnyTeam`**](https://github.com/Anlominus/AnyTeam) ⫸
 <br>
 
+![image](https://user-images.githubusercontent.com/51442719/177962269-3ffc9f78-e516-4459-9719-c1b52a5e3acc.png)
+
+
 </div>
   
 ---
