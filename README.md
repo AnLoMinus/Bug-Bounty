@@ -38,8 +38,9 @@
 ---
 
 # Awesomes
-- ## [Awesome Bug Bounty Tools](https://github.com/vavkamil/awesome-bugbounty-tools)
+- ## [Awesome Bug Bounty Tools](https://github.com/Anlominus/Bug-Bounty/blob/main/Awesome/Awesome%20Bug%20Bounty%20Tools.md) 
   > ### A curated list of various bug bounty tools
+  > https://github.com/vavkamil/awesome-bugbounty-tools
 
 - ## [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
   > A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.
