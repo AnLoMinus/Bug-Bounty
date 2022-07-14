@@ -38,6 +38,9 @@
 ---
 
 # Awesomes
+- ## [Awesome Bug Bounty Tools](https://github.com/vavkamil/awesome-bugbounty-tools)
+  > ### A curated list of various bug bounty tools
+
 - ## [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
   > A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.
 
@@ -47,12 +50,6 @@
 - ## [Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder)
   > ### Awesome Bug bounty builder Project - ALL common Tools for find your Vulnerabilities.
   > ![image](https://user-images.githubusercontent.com/51442719/174515020-8d952fcc-7385-4a41-9e5d-2d388baf953d.png) 
-
-- ## [Awesome Bug Bounty Tools](https://reconshell.com/awesome-bug-bounty-tools/)
-  > ![image](https://user-images.githubusercontent.com/51442719/179049303-743148f7-2204-4266-a226-5893cdb4e167.png)
-  > ### A curated list of various bug bounty tools
-
-
 
 ---
 
