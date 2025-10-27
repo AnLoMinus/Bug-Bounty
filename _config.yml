@@ -1,0 +1,99 @@
+# Site settings
+title: "Bug Bounty Resources"
+description: "מאגר מקיף של משאבי Bug Bounty, כלים, מדריכים וטכניקות"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://anlominus.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Collections
+collections:
+  awesome:
+    output: true
+    permalink: /awesome/:name/
+  bug-hunting:
+    output: true
+    permalink: /bug-hunting/:name/
+  checklist:
+    output: true
+    permalink: /checklist/:name/
+  owasp:
+    output: true
+    permalink: /owasp/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "awesome"
+    values:
+      layout: "awesome"
+  - scope:
+      path: ""
+      type: "bug-hunting"
+    values:
+      layout: "bug-hunting"
+  - scope:
+      path: ""
+      type: "checklist"
+    values:
+      layout: "checklist"
+  - scope:
+      path: ""
+      type: "owasp"
+    values:
+      layout: "owasp"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+
+# Include
+include:
+  - _pages
+
+# Social links
+github_username: Anlominus
+twitter_username: anlominus
+
+# Language settings
+lang: he
+locale: he_IL
+
+# SEO
+author: Anlominus
+keywords: bug bounty, cybersecurity, penetration testing, security tools, hacking, vulnerability assessment
+
+# Navigation
+navigation:
+  - title: "בית"
+    url: "/"
+  - title: "Awesome"
+    url: "/awesome/"
+  - title: "Bug Hunting"
+    url: "/bug-hunting/"
+  - title: "Checklists"
+    url: "/checklist/"
+  - title: "OWASP"
+    url: "/owasp/"
